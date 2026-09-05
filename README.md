@@ -21,7 +21,11 @@ Passionate about bridging the gap between theoretical concepts and hands-on hard
 | **BESTech 2024 AI Agent** | AI LLM-Agent developed for the hackathon with the official Sapienza University team. | OpenAI Platform, No-Code AI | [GitHub Repo](https://github.com/francescomiletto/ai-llm-agent-project) |
 | **SuMoth Project** *(Coming Soon)* | Student-built sustainable vehicle project. | Embedded Systems, Power | *In progress* |
 | **Sapienza Gladiators Bench Power Supply** | Custom bench power supply designed for the team. | Analog Circuit Design | *In progress* |
+---
 
+## 📬 Get in Touch / Contatti
+
+* **Want to see schematics, source code, or discuss a project?** Feel free to [reach out via email](mailto:francesco.miletto3@gmail.com) or connect with me on [LinkedIn]([https://linkedin.com/in/tuo-profilo-linkedin](https://www.linkedin.com/in/francescomiletto/)).
 ---
 
 ## 💡 Core Competencies
