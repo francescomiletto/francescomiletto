@@ -19,8 +19,7 @@ Passionate about bridging the gap between theoretical concepts and hands-on hard
 | **Mini Anti-Intrusion Alarm** | Miniature security system with motion detection, electronic lock, and RFID access. | Arduino, RC522, PIR, Servo | [GitHub Repo](https://github.com/francescomiletto/mini-anti-intrusion-alarm-system) |
 | **Stepper Motor Pointer** | Precision pointing mechanism controlled via push-buttons and LCD feedback. | Arduino, 28BYJ-48, ULN2003 | [GitHub Repo](https://github.com/francescomiletto/stepper-motor-and-position-controller) |
 | **BESTech 2024 AI Agent** | AI LLM-Agent developed for the hackathon with the official Sapienza University team. | OpenAI Platform, No-Code AI | [GitHub Repo](https://github.com/francescomiletto/ai-llm-agent-project) |
-| **SuMoth Project** *(Coming Soon)* | Student-built sustainable vehicle project. | Embedded Systems, Power | *In progress* |
-| **Sapienza Gladiators Bench Power Supply** | Custom bench power supply designed for the team. | Analog Circuit Design | *In progress* |
+
 ---
 
 ## 📬 Get in Touch / Contatti
