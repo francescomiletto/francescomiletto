@@ -15,7 +15,7 @@ Passionate about bridging the gap between theoretical concepts and hands-on hard
 
 | Project | Description | Core Tech | Links |
 | :--- | :--- | :--- | :--- |
-| **Power Inverter** | A DC-AC power inverter prototype developed with Arduino PWM. | Arduino, Opamp, Power electronics components. [GitHub Repo](https://github.com/francescomiletto/arduino-inverter-project)
+| **Power Inverter** | A DC-AC power inverter prototype developed with Arduino PWM. | Arduino, Opamp, Power electronics components. | [GitHub Repo](https://github.com/francescomiletto/arduino-inverter-project)
 | **Mini Anti-Intrusion Alarm** | Miniature security system with motion detection, electronic lock, and RFID access. | Arduino, RC522, PIR, Servo | [GitHub Repo](https://github.com/francescomiletto/mini-anti-intrusion-alarm-system) |
 | **Stepper Motor Pointer** | Precision pointing mechanism controlled via push-buttons and LCD feedback. | Arduino, 28BYJ-48, ULN2003 | [GitHub Repo](https://github.com/francescomiletto/stepper-motor-and-position-controller) |
 | **BESTech 2024 AI Agent** | AI LLM-Agent developed for the hackathon with the official Sapienza University team. | OpenAI Platform, No-Code AI | [GitHub Repo](https://github.com/francescomiletto/ai-llm-agent-project) |
