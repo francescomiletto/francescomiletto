@@ -18,6 +18,7 @@ Passionate about bridging the gap between theoretical concepts and hands-on hard
 | **Power Inverter** | A DC-AC power inverter prototype developed with Arduino PWM. | Arduino, Opamp, Power electronics. | [GitHub Repo](https://github.com/francescomiletto/arduino-inverter-project)
 | **Mini Anti-Intrusion Alarm** | Miniature security system with motion detection, electronic lock, and RFID access. | Arduino, RC522, PIR, Servo | [GitHub Repo](https://github.com/francescomiletto/mini-anti-intrusion-alarm-system) |
 | **DC Power Supply** | A AC-DC Power Supply developed for the Sapienza Gladiators Racing Team | Power electronics, Regulated Buck-Boost, 3D Design | [Github Repo](https://github.com/francescomiletto/sgrt-dc-power-supply) |
+| **DAQ & Telemetry System** | Custom data acquisition board developed for the Sapienza Foiling Team (SuMoth) | ESP32-S3, KiCAD PCB Design, Sensor Integration (IMU/GPS), Telemetry | [Github Repo](https://github.com/francescomiletto/sft-data-acquisition)
 | **Stepper Motor Pointer** | Precision pointing mechanism controlled via push-buttons and LCD feedback. | Arduino, 28BYJ-48, ULN2003 | [GitHub Repo](https://github.com/francescomiletto/stepper-motor-and-position-controller) |
 | **BESTech 2024 AI Agent** | AI LLM-Agent developed for the hackathon with the official Sapienza University team. | OpenAI Platform, No-Code AI | [GitHub Repo](https://github.com/francescomiletto/ai-llm-agent-project) |
 
