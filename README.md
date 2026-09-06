@@ -26,7 +26,7 @@ Passionate about bridging the gap between theoretical concepts and hands-on hard
 
 ## 📬 Get in Touch / Contatti
 
-* **Want to see schematics, source code, or discuss a project?** Feel free to [reach out via email](mailto:francesco.miletto3@gmail.com) or connect with me on [LinkedIn]([https://linkedin.com/in/tuo-profilo-linkedin](https://www.linkedin.com/in/francescomiletto/)).
+* **Want to see schematics, source code, or discuss a project?** Feel free to [reach out via email](mailto:francesco.miletto3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/francescomiletto/).
 ---
 
 ## 💡 Core Competencies
